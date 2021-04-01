@@ -1,4 +1,4 @@
-# E6530-OC-Big-Sur
+# E6530-OC-Big-Sur 11.2.3
 Latitude E6530 Big Sur using Open Core. I did not build this working OC install - I got it from OSX Latitude.
 
 # Serial / UUID
